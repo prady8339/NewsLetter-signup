@@ -4,8 +4,9 @@
   "description": "NewsLetter signup page",
   "main": "app.js",
   "scripts": {
-    "node": "app.js"
-  },
+    "start" : "node app.js"
+   
+},
   "author": "Pradyumna singh",
   "license": "ISC",
   "dependencies": {
