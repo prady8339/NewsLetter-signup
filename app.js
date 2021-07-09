@@ -10,7 +10,8 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(express.static("public"));
 app.listen(process.env.PORT || port,()=>{
     console.log("server running on port 3000.");
-})
+});
+
 app.post("/",(req,res)=>{
    
 
