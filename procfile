@@ -1,5 +1,9 @@
 
 
 
-web: npm start app.js
+web: npm start {
+  "scripts": {
+    "start": "node app.js"
+  }
+}
 
