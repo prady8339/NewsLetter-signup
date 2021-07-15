@@ -68,6 +68,4 @@ app.post("/failure",function(req,res){
 });
 
 
-//41cc6c08bacbc3ef0f880618ed582a92-us6 >> API key
 
-//364aae93f6 >> list ID
